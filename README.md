@@ -82,5 +82,5 @@ It helped me move from **basic Excel use** to **data-driven insight generation**
 
 - ## 📊 Dashboard Preview
 
-![Dashboard](Road accident dashboard.png)
+![Dashboard](Road%20accident%20dashboard.png)
 
