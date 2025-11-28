@@ -79,3 +79,8 @@ It helped me move from **basic Excel use** to **data-driven insight generation**
 - Power BI  
 - Machine Learning  
 - Data Visualization (Flourish, Tableau)
+
+- ## 📊 Dashboard Preview
+
+![Dashboard](Road accident dashboard.png)
+
